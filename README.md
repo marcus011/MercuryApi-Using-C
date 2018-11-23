@@ -28,24 +28,24 @@ open compileRFID file in editor
 
 and change the path of include variable to path where "source_directory/c/src/api" is located
 
-example: 
-       my path is :
-                /home/pi/MercuryApi-Using-C/Mercury_rfid/mercuryapi-1.29.4.34/c/src/api
+example: my path is 
+
+    /home/pi/MercuryApi-Using-C/Mercury_rfid/mercuryapi-1.29.4.34/c/src/api
                 
 save & exit
 
 
 Then
 
-sudo chmod u+x compileRFID
+    sudo chmod u+x compileRFID
 
-./compileRFID programName
+    ./compileRFID programName
 
 Do NOT include the ".c"
 
 It will create an executable with name : programName
 
-To run that type ./programName ……
+    To run that type ./programName ……
 
 
 
