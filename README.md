@@ -47,8 +47,12 @@ It will create an executable with name : programName
 
     To run that type ./programName ……
 
-
-
-
 # NOTE
 This is a simple bash script.
+
+
+
+
+# Credits
+All thanks to Sparksfun Forum from where I met paulvha
+Which help me alot in this project all credits goes to HIM
