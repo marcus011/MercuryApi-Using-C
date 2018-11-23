@@ -8,7 +8,11 @@ Just Clone the Repository
 cd MercuryApi-Using-C/
 
 # Run Command
-sudo bash setup.sh
+]bash setup.sh
 
 
 
+
+
+# NOTE
+This is a simple bash script.
