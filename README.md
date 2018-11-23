@@ -1,19 +1,19 @@
 # MercuryApi-Using-C
-This Repository is regarding using Mercury Api for C language
+This Repository is regarding using Mercury Api for C language [mercuryapi-1.29.4.34.zip](https://www.jadaktech.com/wp-content/uploads/2018/02/mercuryapi-1.29.4.34.zip).
 
-# Installation 1.29 API
+## Installation 1.29 API
 Just Clone the Repository 
 
-# Go Into Directory 
+## Go Into Directory 
 cd MercuryApi-Using-C/
 
-# Run Command
+## Run Command
 bash setup.sh
 
 
-# Usage
+## Usage
 To run sample code go to 
-
+```
     cd source_directory/c/src/api
     
     and Run
@@ -21,8 +21,8 @@ To run sample code go to
     ./read tmr:///dev/ttyUSB0 --ant 1 --pow 500
     
     #Change ttyUSB0 according to your System comport 
-    
-# To Compile your own Scripts
+``` 
+## To Compile your own Scripts
 
 open compileRFID file in editor
 
@@ -47,12 +47,12 @@ It will create an executable with name : programName
 
     To run that type ./programName ……
 
-# NOTE
+### NOTE
 This is a simple bash script.
 
 
 
 
-# Credits
+## Credits
 All thanks to Sparksfun Forum from where I met paulvha
 Which help me alot in this project all credits goes to HIM
