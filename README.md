@@ -11,15 +11,14 @@ cd MercuryApi-Using-C/
 bash setup.sh
 
 
-
-
-
 # Usage
 To run sample code go to 
     cd source_directory/c/src/api
+    Run
+    
     ./read tmr:///dev/ttyUSB0 --ant 1 --pow 500
     
-    Change ttyUSB according to your System comport 
+    #Change ttyUSB0 according to your System comport 
     
 # To Compile your own Scripts
 
