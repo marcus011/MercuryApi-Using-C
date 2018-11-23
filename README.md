@@ -55,4 +55,4 @@ This is a simple bash script.
 
 ## Credits
 All thanks to Sparksfun Forum from where I met paulvha
-Which help me alot in this project all credits goes to HIM
+| [<img src="https://avatars3.githubusercontent.com/u/16015548?s=400&v=4" width="100px;"/><br /><sub><b>paulvha</b></sub>](https://github.com/paulvha)<br/>[📖](https://github.com/paulvha "GitHub") |
