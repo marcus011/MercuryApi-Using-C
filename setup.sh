@@ -1,3 +1,8 @@
+# ! /bin/sh
+# script_name :  setup.sh
+# version 1.0 / marcus / 2018
+
+
 echo "This Setup is for version 1.29.4"
 sleep 5
 
