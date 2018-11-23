@@ -13,8 +13,10 @@ bash setup.sh
 
 # Usage
 To run sample code go to 
+
     cd source_directory/c/src/api
-    Run
+    
+    and Run
     
     ./read tmr:///dev/ttyUSB0 --ant 1 --pow 500
     
