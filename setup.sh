@@ -34,8 +34,8 @@ cd mercuryapi-1.29.4.34/c/src/api/
 make TMR_ENABLE_SERIAL_READER_ONLY=1
 
 
-mv libmercuryapi.so.1 /usr/lib
-ln -sf /usr/lib/libmercuryapi.so.1  /usr/lib/libmercuryapi.so.0
-ln -sf /usr/lib/libmercuryapi.so.1 /usr/lib/libmercuryapi.so
+sudo mv libmercuryapi.so.1 /usr/lib
+sudo ln -sf /usr/lib/libmercuryapi.so.1  /usr/lib/libmercuryapi.so.0
+sudo ln -sf /usr/lib/libmercuryapi.so.1 /usr/lib/libmercuryapi.so
 
 echo "DONE"
